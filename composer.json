@@ -13,16 +13,7 @@
     }
   ],
   "require": {
-    "silex/silex": "2.0.*@dev",
-    "gonzalo123/angularpostrequestserviceprovider": "1.0.*@dev"
-  },
-  "autoload": {
-    "psr-4": {
-      "Foo\\": "src/"
-    }
-  },
-  "config": {
-    "bin-dir": "bin"
+    "silex/silex": "2.0.*@dev"
   },
   "extra": {
     "branch-alias": {
